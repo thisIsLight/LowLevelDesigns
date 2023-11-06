@@ -1,0 +1,15 @@
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LRU and LFU\CacheStrategyLFULRU\bin\Debug\net6.0\CacheStrategyLFULRU.exe
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LRU and LFU\CacheStrategyLFULRU\bin\Debug\net6.0\CacheStrategyLFULRU.deps.json
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LRU and LFU\CacheStrategyLFULRU\bin\Debug\net6.0\CacheStrategyLFULRU.runtimeconfig.json
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LRU and LFU\CacheStrategyLFULRU\bin\Debug\net6.0\CacheStrategyLFULRU.dll
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LRU and LFU\CacheStrategyLFULRU\bin\Debug\net6.0\CacheStrategyLFULRU.pdb
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LRU and LFU\CacheStrategyLFULRU\obj\Debug\net6.0\CacheStrategyLFULRU.csproj.AssemblyReference.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LRU and LFU\CacheStrategyLFULRU\obj\Debug\net6.0\CacheStrategyLFULRU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LRU and LFU\CacheStrategyLFULRU\obj\Debug\net6.0\CacheStrategyLFULRU.AssemblyInfoInputs.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LRU and LFU\CacheStrategyLFULRU\obj\Debug\net6.0\CacheStrategyLFULRU.AssemblyInfo.cs
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LRU and LFU\CacheStrategyLFULRU\obj\Debug\net6.0\CacheStrategyLFULRU.csproj.CoreCompileInputs.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LRU and LFU\CacheStrategyLFULRU\obj\Debug\net6.0\CacheStrategyLFULRU.dll
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LRU and LFU\CacheStrategyLFULRU\obj\Debug\net6.0\refint\CacheStrategyLFULRU.dll
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LRU and LFU\CacheStrategyLFULRU\obj\Debug\net6.0\CacheStrategyLFULRU.pdb
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LRU and LFU\CacheStrategyLFULRU\obj\Debug\net6.0\CacheStrategyLFULRU.genruntimeconfig.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LRU and LFU\CacheStrategyLFULRU\obj\Debug\net6.0\ref\CacheStrategyLFULRU.dll
