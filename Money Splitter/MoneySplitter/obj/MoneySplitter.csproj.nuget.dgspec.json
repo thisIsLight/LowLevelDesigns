@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SahilRao\\Documents\\Learn\\SWIT-13\\LLD\\LowLevelDesigns\\LRU and LFU\\CacheStrategyLFULRU\\CacheStrategyLFULRU.csproj": {}
+    "C:\\Users\\SahilRao\\Documents\\Learn\\SWIT-13\\LLD\\LowLevelDesigns\\Money Splitter\\MoneySplitter\\MoneySplitter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SahilRao\\Documents\\Learn\\SWIT-13\\LLD\\LowLevelDesigns\\LRU and LFU\\CacheStrategyLFULRU\\CacheStrategyLFULRU.csproj": {
+    "C:\\Users\\SahilRao\\Documents\\Learn\\SWIT-13\\LLD\\LowLevelDesigns\\Money Splitter\\MoneySplitter\\MoneySplitter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SahilRao\\Documents\\Learn\\SWIT-13\\LLD\\LowLevelDesigns\\LRU and LFU\\CacheStrategyLFULRU\\CacheStrategyLFULRU.csproj",
-        "projectName": "CacheStrategyLFULRU",
-        "projectPath": "C:\\Users\\SahilRao\\Documents\\Learn\\SWIT-13\\LLD\\LowLevelDesigns\\LRU and LFU\\CacheStrategyLFULRU\\CacheStrategyLFULRU.csproj",
+        "projectUniqueName": "C:\\Users\\SahilRao\\Documents\\Learn\\SWIT-13\\LLD\\LowLevelDesigns\\Money Splitter\\MoneySplitter\\MoneySplitter.csproj",
+        "projectName": "MoneySplitter",
+        "projectPath": "C:\\Users\\SahilRao\\Documents\\Learn\\SWIT-13\\LLD\\LowLevelDesigns\\Money Splitter\\MoneySplitter\\MoneySplitter.csproj",
         "packagesPath": "C:\\Users\\SahilRao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SahilRao\\Documents\\Learn\\SWIT-13\\LLD\\LowLevelDesigns\\LRU and LFU\\CacheStrategyLFULRU\\obj\\",
+        "outputPath": "C:\\Users\\SahilRao\\Documents\\Learn\\SWIT-13\\LLD\\LowLevelDesigns\\Money Splitter\\MoneySplitter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,15 +21,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {},
           "https://bas-565594846767.d.codeartifact.us-east-1.amazonaws.com/nuget/bas-code/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,8 +40,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",

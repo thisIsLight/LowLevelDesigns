@@ -1,0 +1,14 @@
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\Money Splitter\MoneySplitter\bin\Debug\netcoreapp3.1\MoneySplitter.exe
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\Money Splitter\MoneySplitter\bin\Debug\netcoreapp3.1\MoneySplitter.deps.json
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\Money Splitter\MoneySplitter\bin\Debug\netcoreapp3.1\MoneySplitter.runtimeconfig.json
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\Money Splitter\MoneySplitter\bin\Debug\netcoreapp3.1\MoneySplitter.runtimeconfig.dev.json
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\Money Splitter\MoneySplitter\bin\Debug\netcoreapp3.1\MoneySplitter.dll
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\Money Splitter\MoneySplitter\bin\Debug\netcoreapp3.1\MoneySplitter.pdb
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\Money Splitter\MoneySplitter\obj\Debug\netcoreapp3.1\MoneySplitter.csproj.AssemblyReference.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\Money Splitter\MoneySplitter\obj\Debug\netcoreapp3.1\MoneySplitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\Money Splitter\MoneySplitter\obj\Debug\netcoreapp3.1\MoneySplitter.AssemblyInfoInputs.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\Money Splitter\MoneySplitter\obj\Debug\netcoreapp3.1\MoneySplitter.AssemblyInfo.cs
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\Money Splitter\MoneySplitter\obj\Debug\netcoreapp3.1\MoneySplitter.csproj.CoreCompileInputs.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\Money Splitter\MoneySplitter\obj\Debug\netcoreapp3.1\MoneySplitter.dll
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\Money Splitter\MoneySplitter\obj\Debug\netcoreapp3.1\MoneySplitter.pdb
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\Money Splitter\MoneySplitter\obj\Debug\netcoreapp3.1\MoneySplitter.genruntimeconfig.cache
