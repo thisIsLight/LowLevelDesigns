@@ -1,0 +1,15 @@
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\InMemoryKafka\bin\Debug\net8.0\InMemoryKafka.exe
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\InMemoryKafka\bin\Debug\net8.0\InMemoryKafka.deps.json
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\InMemoryKafka\bin\Debug\net8.0\InMemoryKafka.runtimeconfig.json
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\InMemoryKafka\bin\Debug\net8.0\InMemoryKafka.dll
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\InMemoryKafka\bin\Debug\net8.0\InMemoryKafka.pdb
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\InMemoryKafka\obj\Debug\net8.0\InMemoryKafka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\InMemoryKafka\obj\Debug\net8.0\InMemoryKafka.AssemblyInfoInputs.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\InMemoryKafka\obj\Debug\net8.0\InMemoryKafka.AssemblyInfo.cs
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\InMemoryKafka\obj\Debug\net8.0\InMemoryKafka.csproj.CoreCompileInputs.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\InMemoryKafka\obj\Debug\net8.0\InMemoryKafka.sourcelink.json
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\InMemoryKafka\obj\Debug\net8.0\InMemoryKafka.dll
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\InMemoryKafka\obj\Debug\net8.0\refint\InMemoryKafka.dll
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\InMemoryKafka\obj\Debug\net8.0\InMemoryKafka.pdb
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\InMemoryKafka\obj\Debug\net8.0\InMemoryKafka.genruntimeconfig.cache
+C:\Users\SahilRao\Documents\Learn\SWIT-13\LLD\LowLevelDesigns\InMemoryKafka\obj\Debug\net8.0\ref\InMemoryKafka.dll
